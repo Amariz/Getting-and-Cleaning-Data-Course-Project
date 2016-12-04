@@ -94,4 +94,4 @@ View(Final_mean_data)
 
 setwd("..")
 setwd("..")
-write.table(Final_mean_data, "Tidy_dataset.txt")
+write.table(Final_mean_data, "Tidy_dataset.txt", row.names=FALSE)
