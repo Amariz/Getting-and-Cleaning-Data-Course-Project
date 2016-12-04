@@ -9,4 +9,4 @@ This repository contains the course project for 'Getting and Cleaning Data' Cour
 
 3) run_analysis.R - full script
 
-4) Tidy_dataset - final output of the script.
+4) Tidy_dataset.txt - final output of the script.
