@@ -92,4 +92,6 @@ View(MeltData)
 Final_mean_data <- dcast(MeltData, Subject + Activity ~ variable, mean)
 View(Final_mean_data)
 
+setwd("..")
+setwd("..")
 write.table(Final_mean_data, "Tidy_dataset.txt")
